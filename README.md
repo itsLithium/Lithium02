@@ -1,6 +1,6 @@
 - ♨️ Hi, I’m @Lithium02
 - ⚙️ I’m interested in the entire field of computer science in general.
-- 🌱 I’m currently learning python, C# & Dart.
+- 🌱 I’m currently learning html, css, C# & Dart.
 - 📫 i’m new to all of this and I am constantly learning.
 
 <!---
